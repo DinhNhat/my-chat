@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'http://api.nhatdev.top';
+const ENDPOINT = 'https://api.nhatdev.top';
 
 let socket;
 
